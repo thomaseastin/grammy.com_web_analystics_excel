@@ -4,7 +4,7 @@ In this project, I worked on real data provided from both websites owned by The 
 I then chose to compare my findings against grammy.com's number one competitor, The American Music Awards (theAMA.com), to further elaborate upon recommendations for KPI improvements to the developers at grammy.com to optimize their presence within the marketplace. 
 
 # Background
-My goal for this project was to be able to both demonstrate and hone my excel skillset to best transform and analyze the provided datasets for optimal business insights. Throughout the process I employed several different types of analytical tools with excel, such as:
+My goal for this project was to be able to both demonstrate and hone my excel skillset to better transform and analyze the provided datasets for optimal business insights. Throughout the process I employed several different types of analytical tools with excel, such as:
 
 - Advanced Formulas
 - Statistical Analysis
@@ -22,7 +22,7 @@ My goal for this project was to be able to both demonstrate and hone my excel sk
 # Tools I Used
 
 - **Excel** was my primary tool employed to handle everything from data cleaning, transformation and visualization. I decided to use solely excel in order to best demonstrate my developed skillset with the software. 
-- Version control was managed through **GitHub**, allowing for systematic tracking of changes, collaboration, and ensuring the integrity of the project's codebase.
+- Version control was managed through **GitHub**, allowing for systematic tracking of changes, collaboration, and ensuring the integrity of the project itself.
 
 # The Analysis
 
