@@ -123,4 +123,12 @@ I reached these conclusions by choosing to run a two tailed t-Test within excel 
 
 # What I Learned
 
+Deciding to embark upon this analytical endeavor I've successfully integrated advanved Excel functions and other features within my data analytical toolbelt:
 
+***Excel Functions***: Crucial to data analysis because they enable efficient data manipulation, calculation, and visualization, allowing analysts to draw insights quickly from large datasets. Mastering these functions enhances accuracy and productivity, making it easier to identify trends, patterns, and outliers essential for informed decision-making.
+
+***Statisical Aanalysis through Excel***: Provides a versatile and accessible platform to perform complex calculations, visualize data trends, and derive meaningful insights from datasets. Additionally, Excel's wide availability and integration with other tools make it an essential skill for efficiently analyzing and presenting data in various professional contexts.
+
+***PivotTables***: Allows for quick and efficient summarization, organization, and analysis of large datasets, enabling users to uncover trends, patterns, and insights without complex formulas. Pivot tables also offer flexibility in dynamically adjusting the data view, making them a powerful tool for informed decision-making and reporting.
+
+***A/B Testing***: Allows analysts to make data-driven decisions by comparing two versions of a variable, determining which performs better in real-world scenarios. This method not only improves the accuracy of conclusions drawn from data but also helps optimize outcomes by identifying the most effective strategies or changes.
