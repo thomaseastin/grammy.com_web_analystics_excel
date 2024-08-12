@@ -28,7 +28,7 @@ My goal for this project was to be able to both demonstrate and hone my excel sk
 
 ### Explore the Data
 
-Before analyzing any dataset within excel I am always sure to reference the data dictionary provided to better understand the values within all records (rows) and categorys (columns) within a dataset.
+Before analyzing any dataset within excel I am always sure to reference the data dictionary provided to better understand the values within all records (rows) and categories (columns) within a dataset.
 
 | Column  | Description |
 | ------------- | ------------- |
